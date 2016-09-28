@@ -101,7 +101,7 @@ description about the resources and how they relate to one another.
   A Tune has many Musicians, through Setlists
     
   (individual tunes, not organized with a setlist)
-  A Musician has many Tunes
-  A Tune belongs to a Musician
+  A Tune has many Musicians
+  A Musician belongs to a Tune
   
 ```
